@@ -1,0 +1,9 @@
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\bin\Debug\RemoteDiskServer.exe
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\bin\Debug\RemoteDiskServer.pdb
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\obj\Debug\RemoteDiskServer.MainFrm.resources
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\obj\Debug\RemoteDiskServer.Properties.Resources.resources
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\obj\Debug\RemoteDiskServer.csproj.GenerateResource.Cache
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\obj\Debug\RemoteDiskServer.exe
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\obj\Debug\RemoteDiskServer.pdb
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskServer\RemoteDiskServer\obj\Debug\RemoteDiskServer.ConfigureFrm.resources

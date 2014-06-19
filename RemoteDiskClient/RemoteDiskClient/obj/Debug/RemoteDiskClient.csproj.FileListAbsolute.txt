@@ -1,0 +1,9 @@
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\obj\Debug\RemoteDiskClient.MainFrm.resources
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\obj\Debug\RemoteDiskClient.Properties.Resources.resources
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\obj\Debug\RemoteDiskClient.csproj.GenerateResource.Cache
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\bin\Debug\RemoteDiskClient.exe
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\bin\Debug\RemoteDiskClient.pdb
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\obj\Debug\RemoteDiskClient.exe
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\obj\Debug\RemoteDiskClient.pdb
+C:\Users\Sky\Desktop\JobduOJ\Ultimate\RemoteDiskClient\RemoteDiskClient\obj\Debug\RemoteDiskClient.ConfigureFrm.resources
